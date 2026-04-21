@@ -6,7 +6,7 @@
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#Methodology">Methodology</a>
 - <a href="#Deployment">Deployment</a>
-- <a href="# Key-Insights">R Key Insights</a>
+- <a href="# Key-Insights">Key Insights</a>
 
 - <a href="#future-work">Future Work</a>
 
