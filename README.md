@@ -1,4 +1,16 @@
 
+## 📌 Table of Contents
+
+- <a href="#problem-statement">Problem Statement</a>
+- <a href="#Demo">Demo</a>
+- <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#Methodology">Methodology</a>
+- <a href="#Deployment">Deployment</a>
+- <a href="# Key-Insights">R Key Insights</a>
+
+- <a href="#future-work">Future Work</a>
+
+
 # **AI Resume Analyzer**
 
 AI Resume Analyzer is a smart resume evaluation tool built using Streamlit + Google Gemini API. It helps users understand how their resume performs in real-world hiring scenarios by providing structured insights such as strengths, weaknesses, ATS compatibility, and job match score.
@@ -14,7 +26,8 @@ ATS compatibility issues
 Alignment with job descriptions
 
 This leads to missed opportunities despite having the right skills.
-## Screenshots of Result
+
+<h3><a class="anchor" id="Demo"></a>Demo</h3>
 
 https://github.com/user-attachments/assets/4f57f867-f379-4d8d-b34e-44af6f1e6e11
 
@@ -33,7 +46,8 @@ https://github.com/user-attachments/assets/4f57f867-f379-4d8d-b34e-44af6f1e6e11
 
 
 
-## Tech Stack
+
+<h3><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h3>
 - Frontend/UI: Streamlit
 - Backend: Python
 - AI Model: Google Gemini API (Generative AI)
@@ -41,14 +55,19 @@ https://github.com/user-attachments/assets/4f57f867-f379-4d8d-b34e-44af6f1e6e11
 - PDF Processing: pdf2image, PIL
 
 
-## Methodology
+
+ <h3><a class="anchor" id="Methodology"></a>Methodology</h3>
 - Resume Upload (PDF)
 - PDF → Images Conversion
 - OCR Extraction (Tesseract)
 - AI Processing using Gemini
 - Structured JSON Output Parsing
 - Visualization using Streamlit UI
+
 ## Key Insights Provided
+
+<h3><a class="anchor" id=" Key-Insights"></a> Key Insights</h3>
+
 - Candidate summary & HR impression
 - Strengths & weaknesses
 - Key skills detected
@@ -63,7 +82,8 @@ https://github.com/user-attachments/assets/4f57f867-f379-4d8d-b34e-44af6f1e6e11
 - Skill tags & keyword highlights
 - Structured cards for insights
 - Improvement suggestions
-## Deployment
+ 
+<h3><a class="anchor" id="Deployment"></a>Deployment</h3>
 
   1. Clone the Repository
 
@@ -104,14 +124,7 @@ Run the App
  streamlit run app.py
   
 ```
-
-
-
-
-
-
-
-## *Future Work*
+<h3><a class="anchor" id="future-work"></a>Future Work</h3>
 - Multi-format resume support (DOCX, TXT)
 - Resume rewriting using AI
 - LinkedIn profile analysis
