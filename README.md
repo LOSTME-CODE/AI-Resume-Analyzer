@@ -29,8 +29,7 @@ This leads to missed opportunities despite having the right skills.
 
 <h3><a class="anchor" id="Demo"></a>Demo</h3>
 
-https://github.com/user-attachments/assets/4f57f867-f379-4d8d-b34e-44af6f1e6e11
-
+https://github.com/user-attachments/assets/34ee5ec5-cebf-45ac-a383-b6fce4212f55
 
 ![App Screenshot](https://github.com/LOSTME-CODE/AI-Resume-Analyzer/blob/2685108c8c428f336898bb76cbdc4efd51fe9c16/1.png)
 
